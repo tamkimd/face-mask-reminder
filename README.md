@@ -1,5 +1,5 @@
 # face-mask-reminder
-detect and remind to wear face mask
+detect and remind to wear a face mask
 # Data
 * <a href="https://drive.google.com/file/d/17EjaIIj3YGiemA9cJD2so2i9ZdMIJ5Vb/view?usp=sharing" target="_blank">data.zip</a>
 * !gdown --id 17EjaIIj3YGiemA9cJD2so2i9ZdMIJ5Vb
