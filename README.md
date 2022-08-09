@@ -13,7 +13,7 @@ Result after 100 epochs
 # Run
       python yolov5/detect.py --source 0 --weights face_mask.pt  --view-img --lang vi --time-remind 4
 * --lang vi or en: audio reminder in Vietnamese or English language
-* --time-remind: time between 2 reminders
+* --time-remind: time(s) between 2 reminders
 ### Reference
 
 * [YOLOv5](https://github.com/ultralytics/yolov5)
