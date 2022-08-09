@@ -8,7 +8,7 @@ Detect and remind to wear a face mask
 # Train
      face_mask.pt 4Mb  mAP@0.5 0.982
 Result after 100 epochs
-# install package
+# Install package
      pip install -r yolov5/requirements.txt
 # Run
       python yolov5/detect.py --source 0 --weights face_mask.pt  --view-img --lang vi --time-remind 4
