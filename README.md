@@ -7,7 +7,7 @@ Detect and remind to wear a face mask
 * Data has been converted to yolo txt format from https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
 # Train
      face_mask.pt 4Mb  mAP@0.5 0.982
-Result affter 100 epochs
+Result after 100 epochs
     
 # Run
       python yolov5/detect.py --source 0 --weights face_mask.pt  --view-img --lang vi --time-remind 4
